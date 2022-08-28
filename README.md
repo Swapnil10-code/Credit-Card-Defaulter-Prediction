@@ -1,9 +1,9 @@
 # Credit-Card-Defaulter-Prediction
 
-Problem Statement :
+## Problem Statement :
 For the given dataset about credit card clients, predict whether a given client will default or not.
 
-Dataset Information :
+## Dataset Information :
 There are 25 variables:
 
 ID: ID of each client
