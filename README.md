@@ -1,4 +1,4 @@
-# <u>Credit-Card-Defaulter-Prediction</u>
+# Credit-Card-Defaulter-Prediction
 
 ## Problem Statement :
 For the given dataset about credit card clients, predict whether a given client will default or not.
